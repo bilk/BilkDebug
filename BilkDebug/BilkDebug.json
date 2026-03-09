@@ -1,0 +1,11 @@
+{
+  "Author": "Treezy",
+  "Name": "BilkDebug",
+  "Punchline": "Plugin for Development",
+  "Description": "Hopefully can test hooks and test custom CS",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "dev",
+    "treezy"
+  ]
+}
